@@ -1,6 +1,8 @@
-# bunny
+# name_animation_rive
 
-A new Flutter application.
+Made using smart flare actor package and custom animation file made by me using Rive(can be found in assets or this link 
+
+https://rive.app/a/assassin119/files/flare/name )
 
 ## Getting Started
 
